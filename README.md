@@ -10,6 +10,8 @@ Social Media Consultation Firm
 ## Website
 https://lifeatinfinitum.github.io/Horiseon---For-Social-Media-Optimization/
 
+![image](assets/Screenshot.png)
+
 ## Contribution
 Made with ❤️ by Nadine Ghammache
 
